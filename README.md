@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I am a passionate Computer Science student dedicat
 ---
 
 ## Tech Stack & Tools I Work With
-![Java]
-![Python]
-![C++]
+- ![Java]
+- ![Python]
+- ![C++]
 
 ---
 
