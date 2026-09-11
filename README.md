@@ -34,4 +34,4 @@ Welcome to my GitHub profile! I am a passionate Computer Science student dedicat
 - **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/thilakshana-gangodage-116b063a4)
  
 
-*"Securing the future, one intelligent line of code at a time."*
+*Securing the future, one intelligent line of code at a time.*
