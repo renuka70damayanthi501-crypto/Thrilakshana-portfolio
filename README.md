@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I am a passionate Computer Science student dedicat
 ---
 
 ## My Projects
-- [Smart Shoe Management System] (.....)
-- [A Pair Of AI Powered Smart Spectacles] (.....)
+- [Smart Shoe Management System] (SMS PRESENTATION - Copy.pdf)
+- [A Pair Of AI Powered Smart Spectacles]  
 
 ---
 
