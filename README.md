@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science student dedicat
 ---
 
 ## My Projects
-- [Smart Shoe Management System] (SMS PRESENTATION - Copy.pdf)
+- [Smart Shoe Management System] (https://github.com/renuka70damayanthi501-crypto/Smart-Shoe-Management-System)
 - [A Pair Of AI Powered Smart Spectacles]  
 
 ---
